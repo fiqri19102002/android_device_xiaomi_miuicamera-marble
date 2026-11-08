@@ -1,7 +1,7 @@
 From f93bbbcc92c01a746330bb721a3dcbed8dfb1572 Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Fri, 6 Nov 2026 22:32:11 +0100
-Subject: [PATCH 09/10] Disable ML Kit Firelog reporting
+Subject: [PATCH 09/11] Disable ML Kit Firelog reporting
 
 The optimized option setters ignore their arguments, so disable reporting
 in the builders.

@@ -1,7 +1,7 @@
 From 17ea986d9ea1a1c6d2ea94e2fed0b4fe4d6cc58e Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Fri, 6 Nov 2026 22:32:11 +0100
-Subject: [PATCH 10/10] Disable Xiaomi AI SDK tracking by default
+Subject: [PATCH 10/11] Disable Xiaomi AI SDK tracking by default
 
 ---
  smali_classes4/com/xiaomi/ai/core/a.smali | 2 +-

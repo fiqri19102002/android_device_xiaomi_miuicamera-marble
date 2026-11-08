@@ -1,7 +1,7 @@
 From d11794b4668bbd38293544b92bcf72f7de9870de Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Fri, 6 Nov 2026 22:31:16 +0100
-Subject: [PATCH 08/10] Disable camera usage and settings reporting
+Subject: [PATCH 08/11] Disable camera usage and settings reporting
 
 ---
  AndroidManifest.xml                           |  2 +-
